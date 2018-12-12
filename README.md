@@ -1,6 +1,14 @@
 # MathCalculatorCPP
 A program to recognize numbers from images and calculate the processed image.
-
+   
+I. <h1>Prerequisites:</h1>   
+1. This program can only run on WindowOS bacause i used Visual Studio 2015 
+2. Opencv Library ( best version: 3.4.2 )   
+   After installing Opencv, you need to set directory to library.   
+   You can follow this video to link library:  https://www.youtube.com/watch?v=hgTQWhowRb8
+   This step is little bit difficult at first. Be patient and keep up with video guidance!!!
+   
+II. <h1>Flow of program:</h1>   
 All cpp file is included in "src" folder   
 All header file is included in "header" folder   
    
