@@ -5,7 +5,7 @@ All cpp file is included in "src" folder
 All header file is included in "header" folder   
    
 This program has the following flow:    
-1. Capture screen to get the image of the image containing some math expression    
+1. Capture screen to get the screen of the image containing some math expression    
    There is some sample screen-captured images in the folder Image/Rename    
    
 2. Using opencv:   
